@@ -1,0 +1,2 @@
+cd/d f:/tfrecord
+tensorboard --logdir=logs
